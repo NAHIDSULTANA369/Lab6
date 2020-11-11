@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E5611D74-AC00-492F-8949-F847E48CEB29}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab6/Account.cs">
+    <Files>
+      <File FileName="Lab6/Program.cs" Line="1" Column="1" />
+      <File FileName="Lab6/Account.cs" Line="9" Column="8" />
+      <File FileName="Lab6/Book.cs" />
+      <File FileName="Lab6/Borrow.cs" />
+      <File FileName="Lab6/Library.cs" />
+      <File FileName="Lab6/Student.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab6" expanded="True">
+            <Node name="Lab6" expanded="True">
+              <Node name="Account.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab6 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/PINK/Documents/C#/Task/Lab6/Lab6/obj/Debug/netcoreapp3.1/Lab6.csprojAssemblyReference.cache
+/Users/PINK/Documents/C#/Task/Lab6/Lab6/obj/Debug/netcoreapp3.1/Lab6.AssemblyInfoInputs.cache
+/Users/PINK/Documents/C#/Task/Lab6/Lab6/obj/Debug/netcoreapp3.1/Lab6.AssemblyInfo.cs
+/Users/PINK/Documents/C#/Task/Lab6/Lab6/obj/Debug/netcoreapp3.1/Lab6.csproj.CoreCompileInputs.cache
+/Users/PINK/Documents/C#/Task/Lab6/Lab6/bin/Debug/netcoreapp3.1/Lab6.deps.json
+/Users/PINK/Documents/C#/Task/Lab6/Lab6/bin/Debug/netcoreapp3.1/Lab6.runtimeconfig.json
+/Users/PINK/Documents/C#/Task/Lab6/Lab6/bin/Debug/netcoreapp3.1/Lab6.runtimeconfig.dev.json
+/Users/PINK/Documents/C#/Task/Lab6/Lab6/bin/Debug/netcoreapp3.1/Lab6.dll
+/Users/PINK/Documents/C#/Task/Lab6/Lab6/bin/Debug/netcoreapp3.1/Lab6.pdb
+/Users/PINK/Documents/C#/Task/Lab6/Lab6/obj/Debug/netcoreapp3.1/Lab6.dll
+/Users/PINK/Documents/C#/Task/Lab6/Lab6/obj/Debug/netcoreapp3.1/Lab6.pdb
+/Users/PINK/Documents/C#/Task/Lab6/Lab6/obj/Debug/netcoreapp3.1/Lab6.genruntimeconfig.cache
